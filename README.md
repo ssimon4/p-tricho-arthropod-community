@@ -1,2 +1,7 @@
 # p-tricho-arthropod-community
-Genetic underpinnings of arthropod community distributions in Populus trichocarpa
+This repository contains the data, scripts, and analysis notebooks used in our manuscript "Genetic underpinnings of arthropod community distributions in Populus trichocarpa".
+
+# Contents
+1. README.md: this file.
+2. notebooks/: Notebooks that detail the analyses reported in the manuscript.
+3. repository for the code used in narrow-sense heritabiligy analysis
