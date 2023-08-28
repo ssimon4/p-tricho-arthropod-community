@@ -1,7 +1,7 @@
 # p-tricho-arthropod-community
 This repository contains the data and analysis notebooks used in our manuscript:
 
-Genetic underpinnings of arthropod community distributions in _Populus trichocarpa_
+"Genetic underpinnings of arthropod community distributions in _Populus trichocarpa_"
 
 Sandra J. Simon1*, Anna Furches2, Hari Chhetri1, Luke Evans3, Piet Jones5, Gina Wimp4, David Macaya-Sanz1, Daniel Jacobson2,5, Timothy J. Tschaplinski2, Gerald A. Tuskan2, and Stephen. P. DiFazio1
 
