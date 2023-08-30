@@ -11,4 +11,5 @@ Sandra J. Simon1*, Anna Furches2, Hari Chhetri1, Luke Evans3, Piet Jones5, Gina 
 1. [README.md](https://github.com/ssimon4/p-tricho-arthropod-community/blob/main/README.md): this file.
 2. [data/](https://github.com/ssimon4/p-tricho-arthropod-community/tree/main/data): a master excel file containing data from all arthropod surveys, genotype sampling origin, calculated community metrics, and NMDS axis coordinates.
 3. [figures/](https://github.com/ssimon4/p-tricho-arthropod-community/tree/main/figures): a folder that contains the example output figures included/linked throughout the analysis code.
-4. [wiki/](https://github.com/ssimon4/p-tricho-arthropod-community/wiki): notebooks that contain the code and detail the analyses reported in the manuscript.
+4. [wiki/](https://github.com/ssimon4/p-tricho-arthropod-community/wiki): pages that contain the code and detail the analyses reported in the manuscript.
+5. [scripts/](https://github.com/ssimon4/p-tricho-arthropod-community/tree/main/scripts): a folder that contains the R files with code detailed in the wiki pages.
